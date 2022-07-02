@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdd7534e-d3e3-446e-be19-84b24566fddf" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P3.java" afterDir="false" />
+    <list default="true" id="bdd7534e-d3e3-446e-be19-84b24566fddf" name="Changes" comment="Solutions of Problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656778384950</updated>
-      <workItem from="1656778386723" duration="3430000" />
+      <workItem from="1656778386723" duration="3936000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1656778407207</created>
@@ -96,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656778407207</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Solutions of Problems">
+      <created>1656783330653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656783330653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Solutions of Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solutions of Problems" />
   </component>
 </project>

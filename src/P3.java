@@ -29,11 +29,15 @@ public class P3 {
         putToMap(map, str5, str5_shifr);
         putToMap(map, str6, str6_shifr);
 
+        // foydalanuvchidan xabar qabul qilib olish
         String word = scanner.nextLine();
+
+        // Bu xabarni String Builder orqali tez fursat ichida shifrlash
         StringBuilder stringBuilder = new StringBuilder();
         for (int i = 0; i < word.length(); i++) {
             stringBuilder.append(map.get(word.charAt(i)));
         }
+        // Foydalanuvchiga shifrlangan xabarni taqdim qilish
         System.out.println("Output: " + stringBuilder.toString());
 
     }
