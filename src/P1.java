@@ -14,7 +14,10 @@ public class P1 {
 
         int[][] arr = new int[49][49];
         // Robot qaysi katakda turganini foydalanuvchi kiritadi
-        int i = scanner.nextInt(), j = scanner.nextInt();
+        System.out.println("Satr nomerini kiriting (0-6) -> ");
+        int i = scanner.nextInt();
+        System.out.println("Ustun nomerini kiriting (0-6) -> ");
+        int j = scanner.nextInt();
         arr[i][j] = 1;
 
         int minimumNumberOfSteps = Math.abs(3 - i) + Math.abs(3 - j);
